@@ -1,0 +1,16 @@
+{
+  "name": "node_api_ts",
+  "version": "1.0.0",
+  "description": "Node.js API with TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "api"
+  ],
+  "author": "Rodrigo Soares",
+  "license": "ISC"
+}
