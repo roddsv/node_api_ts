@@ -12,5 +12,9 @@
     "api"
   ],
   "author": "Rodrigo Soares",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.10",
+    "typescript": "^5.2.2"
+  }
 }
