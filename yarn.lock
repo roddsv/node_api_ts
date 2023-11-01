@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@types/module-alias@^2.0.3":
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/@types/module-alias/-/module-alias-2.0.3.tgz#c4b69db7d7e8d8063b8e6a92451373f102605c5d"
+  integrity sha512-P4nKOHbLwvzpPWA5rqJXEAvkIePPb4fNMaEzVU3qZp53NEg2buF9KaudA7BfduUd0b/M1+cM9w050WJ+sDHktw==
+
 "@types/node@^20.8.10":
   version "20.8.10"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-20.8.10.tgz#a5448b895c753ae929c26ce85cab557c6d4a365e"

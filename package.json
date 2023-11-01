@@ -14,6 +14,7 @@
   "author": "Rodrigo Soares",
   "license": "ISC",
   "devDependencies": {
+    "@types/module-alias": "^2.0.3",
     "@types/node": "^20.8.10",
     "typescript": "^5.2.2"
   }
